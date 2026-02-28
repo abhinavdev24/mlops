@@ -9,3 +9,6 @@ This repository includes code of all the labs completed in MLOps course.
 
 - [Data Labs](./Data_Labs/)
   - [LLM Data Pipeline](./Data_Labs/LLM_Data_Pipeline/) - Streaming language modeling data pipeline using Hugging Face Datasets and Transformers. Demonstrates memory-efficient processing of large text corpora for LM training.
+
+- [API Labs](./API_Labs/)
+  - [FastAPI Labs](./API_Labs/FastAPI_Labs/) - FastAPI-based machine learning inference API. Trains a Support Vector Classifier on the Wine dataset and serves predictions through a `/predict` endpoint.
