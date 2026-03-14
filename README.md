@@ -12,3 +12,6 @@ This repository includes code of all the labs completed in MLOps course.
 
 - [API Labs](./API_Labs/)
   - [FastAPI Labs](./API_Labs/FastAPI_Labs/) - FastAPI-based machine learning inference API. Trains a Support Vector Classifier on the Wine dataset and serves predictions through a `/predict` endpoint.
+
+- [Experiment Tracking Labs](./Experiment_Tracking_Labs/)
+  - [W&B Lab](./Experiment_Tracking_Labs/W&B/) - Experiment tracking workflow using TensorFlow/Keras and Weights & Biases. Trains a CNN on CIFAR-10, logs metrics and artifacts, and supports environment-based configuration.

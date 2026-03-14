@@ -2,3 +2,8 @@
 *.pkl
 .DS_Store
 __pycache__
+
+*.env*
+Experiment_Tracking_Labs/W&B/wandb
+Experiment_Tracking_Labs/W&B/checkpoints
+Experiment_Tracking_Labs/W&B/artifacts
