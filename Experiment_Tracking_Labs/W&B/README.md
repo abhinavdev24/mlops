@@ -8,7 +8,7 @@ This notebook trains a CNN on CIFAR-10 using TensorFlow/Keras and tracks experim
 
 ## W&B URLs
 
-- Project URL: `https://wandb.ai/abhinav241998-org/experiment-tracking-cifar10/workspace?nw=nwuserabhinav241998`
+- Project URL: [https://wandb.ai/abhinav241998-org/experiment-tracking-cifar10/workspace?nw=nwuserabhinav241998](https://wandb.ai/abhinav241998-org/experiment-tracking-cifar10/workspace?nw=nwuserabhinav241998)
 
 ## Dataset Used
 
