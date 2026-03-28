@@ -15,3 +15,7 @@ This repository includes code of all the labs completed in MLOps course.
 
 - [Experiment Tracking Labs](./Experiment_Tracking_Labs/)
   - [W&B Lab](./Experiment_Tracking_Labs/W&B/) - Experiment tracking workflow using TensorFlow/Keras and Weights & Biases. Trains a CNN on CIFAR-10, logs metrics and artifacts, and supports environment-based configuration.
+
+- [GCP Labs](./GCP_Labs/)
+  - [Compute Engine Labs](./GCP_Labs/Compute_Engine_Labs/)
+    - [Lab 1](./GCP_Labs/Compute_Engine_Labs/Lab1/) - FastAPI Wine Classification API deployment on Google Cloud Platform's Compute Engine. Demonstrates deploying ML models as scalable REST APIs on cloud infrastructure.
