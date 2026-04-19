@@ -1,8 +1,8 @@
 name: Periodic Model Calibration
 
 on:
-  schedule:
-    - cron: "0 0 * * *" #minutes, hours, day, month, day of week 
+  # schedule:
+  #   - cron: "0 0 * * *" #minutes, hours, day, month, day of week 
   workflow_dispatch:
 
 permissions:
@@ -47,7 +47,8 @@ jobs:
           python-version: 3.9
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org
+          -r requirements.txt
 
       - name: Generate and Store Timestamp
         run: |
