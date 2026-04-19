@@ -7,3 +7,5 @@ __pycache__
 Experiment_Tracking_Labs/W&B/wandb
 Experiment_Tracking_Labs/W&B/checkpoints
 Experiment_Tracking_Labs/W&B/artifacts
+.vscode/settings.json
+.coverage
