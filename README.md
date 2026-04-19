@@ -19,3 +19,6 @@ This repository includes code of all the labs completed in MLOps course.
 - [GCP Labs](./GCP_Labs/)
   - [Compute Engine Labs](./GCP_Labs/Compute_Engine_Labs/)
     - [Lab 1](./GCP_Labs/Compute_Engine_Labs/Lab1/) - FastAPI Wine Classification API deployment on Google Cloud Platform's Compute Engine. Demonstrates deploying ML models as scalable REST APIs on cloud infrastructure.
+
+- [GitHub Labs](./Github_Labs/)
+  - [Lab 2](./Github_Labs/Lab2/) - Automated Model Retraining With GitHub Actions. Demonstrates an end-to-end MLOps loop where a model is tested, retrained, evaluated, versioned, and committed automatically through GitHub Actions.
